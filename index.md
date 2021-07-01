@@ -1,13 +1,12 @@
 ## HELLO
 
-You can use the [editor on GitHub](https://github.com/sastofficial/why-do-i-keep-making-these-weird-things-so-i-can-make-a-website-help-lol/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+this is me trying out the themes on github pages
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### COOL
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+bruh
 ```markdown
 Syntax highlighted code block
 
@@ -15,8 +14,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+so what do i do
+### lol
 
 1. Numbered
 2. List
@@ -26,12 +25,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Flavored Markdown](https://www.submithub.com/hot-or-not/).
 
-### Jekyll Themes
+### Jekyll Memes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sastofficial/why-do-i-keep-making-these-weird-things-so-i-can-make-a-website-help-lol/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+meme
 
-### Support or Contact
+### bobux
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://web.archive.org/web/20210701122947/https://sastofficial.github.io/minecraft-worlds/) or [contact support](https://lazaroibanez.com/how-to-add-a-favicon-to-github-pages-403935604460) and we’ll help you sort it out.
