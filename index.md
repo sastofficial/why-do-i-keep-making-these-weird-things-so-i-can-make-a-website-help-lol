@@ -2,7 +2,7 @@
 
 this is me trying out the themes on github pages
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://web.archive.org/save/https://sastofficial.github.io/why-do-i-keep-making-these-weird-things-so-i-can-make-a-website-help-lol/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### COOL
 
